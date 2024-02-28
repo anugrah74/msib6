@@ -5,7 +5,8 @@ Kumpulan Materi MSIB 6
 - JavaScript
 - PHP
 - Laravel
-- Mysql database 
+- MySQL 
 - Rest Api
 - Consum Api
-//GIT add untuk menambah file 
+- belajar bersama
+//git add untuk menambah file 
